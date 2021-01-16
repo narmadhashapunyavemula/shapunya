@@ -1,0 +1,4 @@
+a="welcome to python"
+a[8:10]
+
+'to'
